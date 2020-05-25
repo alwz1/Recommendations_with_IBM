@@ -12,7 +12,7 @@ Standard libraries installed with the Anaconda distribution.
 python 3.7.4
 
 ### Project Motivation<a name="project_motivation"></a>
-To make recommendations about new articles based on the analysis of users' interactioins with articles.
+To make recommendations about new articles to users on IBM Watson Studio platform. 
 
 
 ### File Descriptions<a name="file_descriptions"></a>

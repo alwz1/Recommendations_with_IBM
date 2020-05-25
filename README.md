@@ -18,6 +18,7 @@ To make recommendations about new articles based on the analysis of users' inter
 
 ### File Descriptions<a name="file_descriptions"></a>
 
+Recommendations_with_IBM.ipynb: Jupyter notebook
 
 LICENSE.txt: MIT License
 

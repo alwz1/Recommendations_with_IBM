@@ -25,6 +25,8 @@ LICENSE.txt: MIT License
 
 ### Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
+I thank Udacity and IBM for this project. 
+
 MIT License
 
 
